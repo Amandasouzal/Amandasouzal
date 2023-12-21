@@ -1,5 +1,4 @@
-### Hi there 
-### Olá! Eu sou a Amanda Souza!👋
+### ! Eu sou a Amanda Souza!👋
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/inamanda-alves-0a688b2a2)
 
